@@ -1,0 +1,2 @@
+JS files are here for your information.
+Scripts are written directly inside PHP document.

@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Juiz Smart Mobile Admin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-12 01:39+0100\n"
+"PO-Revision-Date: 2012-12-12 01:39+0100\n"
+"Last-Translator: Geoffrey <rikuasakura@hotmail.fr>\n"
+"Language-Team: Creativejuiz <support@creativejuiz.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../juiz-smart-mobile-admin.php:103
+msgid "Settings"
+msgstr "Settings"
+
+#: ../juiz-smart-mobile-admin.php:113
+#, php-format
+msgid "Howdy, %1$s"
+msgstr "Howdy, %1$s"
+
+#: ../juiz-smart-mobile-admin.php:128
+msgid "Credits"
+msgstr "Credits"
+
+#: ../juiz-smart-mobile-admin.php:129
+msgid ""
+"Mobile Admin support by <a href=\"http://wordpress.org/extend/plugins/juiz-"
+"smart-mobile-admin\">Juiz SMA</a>"
+msgstr ""
+"Mobile Admin support by <a href=\"http://wordpress.org/extend/plugins/juiz-"
+"smart-mobile-admin\">Juiz SMA</a>"
+
+#: ../juiz-smart-mobile-admin.php:130
+msgid "Top of page"
+msgstr "Top of page"
+
+#: ../juiz-smart-mobile-admin.php:190 ../juiz-smart-mobile-admin.php:191
+msgid "Admin Mobile Appearance"
+msgstr "Admin Mobile Appearance"
+
+#: ../juiz-smart-mobile-admin.php:203
+msgid "Main settings"
+msgstr "Main settings"
+
+#: ../juiz-smart-mobile-admin.php:204
+msgid "Show plugins shortcuts in adminbar?"
+msgstr "Show plugins shortcuts in adminbar?"
+
+#: ../juiz-smart-mobile-admin.php:205
+msgid "Show custom WP admin footer ?"
+msgstr "Show custom WP admin footer ?"
+
+#: ../juiz-smart-mobile-admin.php:222
+msgid "Here, you can modify default settings of the SMA plugin"
+msgstr "Here, you can modify default settings of the SMA plugin"
+
+#: ../juiz-smart-mobile-admin.php:225
+msgid "Settings saved"
+msgstr "Settings saved"
+
+#: ../juiz-smart-mobile-admin.php:237 ../juiz-smart-mobile-admin.php:251
+msgid "Yes"
+msgstr "Yes"
+
+#: ../juiz-smart-mobile-admin.php:240 ../juiz-smart-mobile-admin.php:254
+msgid "No"
+msgstr "No"
+
+#: ../juiz-smart-mobile-admin.php:266
+msgid "Manage Juiz Smart Mobile Admin"
+msgstr "Manage Juiz Smart Mobile Admin"
+
+#: ../juiz-smart-mobile-admin.php:277
+msgid "Like it? Support this plugin! Thank you."
+msgstr "Like it? Support this plugin! Thank you."
+
+#: ../juiz-smart-mobile-admin.php:278
+msgid "Donate"
+msgstr "Donate"
+
+#: ../juiz-smart-mobile-admin.php:279
+msgid "Tweet it"
+msgstr "Tweet it"
+
+#: ../juiz-smart-mobile-admin.php:280
+msgid "Rate it"
+msgstr "Rate it"
+
+#~ msgid "The redirection failed"
+#~ msgstr "The redirection failed"
+
+#~ msgid "refresh the page"
+#~ msgstr "refresh the page"
+
+#~ msgid "Sorry, nothing to update..."
+#~ msgstr "Sorry, nothing to update..."
+
+#~ msgid "Unknown error..."
+#~ msgstr "Unknown error..."

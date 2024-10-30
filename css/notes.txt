@@ -1,0 +1,2 @@
+CSS files are here for your information.
+Styles are written directly inside PHP document.
